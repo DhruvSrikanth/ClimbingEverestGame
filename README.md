@@ -24,7 +24,7 @@ Finally, I would like to thank **Rohit Kumar** and **Minjeong Woo**, both of who
 
 A map of the game can be seen below - 
 
-![GameMap](/functional-adventure/game_map.PNG)
+![GameMap](/game_map.PNG)
 
 You will start at everest base camp. (As indicated by the star when you use the map command).
 
