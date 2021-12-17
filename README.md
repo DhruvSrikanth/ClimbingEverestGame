@@ -55,20 +55,3 @@ I wont be divulging where I have placed each item (the important ones have been 
 
 ---
 
-<H3> Runtime Bugs: </H3>
-
-I was not able to finish the following things - 
-1. For some reason, the randomMap function works some times at at other times, the program seems to be stuck in a recursive loop. It is for this reason and the fact that I am using the initialState to start the game. Additionally, for my game (climbing everest), I thought starting with the initialState made more sense.
-2. I was not able to create the random boxes whilst having fixed surrounding rooms. My thought process was to use this as a base and then alter it in such a way that only the spaces between camp1 and camp2 would be randomly generate but I did not have time to do so.
-
-Other than this, I have not encountered any run time bugs but feel free to test it out to find some :).
-
----
-
-<H3> Extra Credit Features: </H3>
-
-1. I have added a few extra rooms and items.
-2. I have implemented a feature where the player will die if he or she does not pick up the snacks and the oxygen present at two different camps before the South Summit, the summit of Everest or the summit of Lhotse. The implementation can be found at these functions - dieGame, repl, checkGameDie (in GameIO) and willDieGame (in GameState).
-
----
-
