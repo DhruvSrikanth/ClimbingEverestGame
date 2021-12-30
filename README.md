@@ -1,20 +1,4 @@
-# functional-adventure
-
----
-
-### Name - Dhruv Srikanth
-
-### Date - 12/10/2021 (10th Decemeber, 2021)
-
----
-
-<H3> Acknowledgments: </H3>
-
-First, I'd like to thank the professor, **Matt** and the TA, **Jacob**. I have emailed both of them with doubts and they have always helped in clearing them. Furthermore, Matt's energy in class, as well as style of teaching is something different. I am never bored or tired in class and am always learning something interesting (albiet quite complex). Also, thanks so much for the spotify playlist! Im really emjoying it!!.
-
-Finally, I would like to thank **Rohit Kumar** and **Minjeong Woo**, both of whom I have gotten to know over this past quarter and have helped understand assignments, work out code, or even just lighten the mood when we are stuck on a question. 
-
----
+# Climbing Mount Everest: A Functional Adventure Far Far Away
 
 <H3> Instructions on the Game: </H3>
 
